@@ -1,7 +1,0 @@
-{
-  "name": "chatAppEx",
-  "integrations": {
-    "cordova": {}
-  },
-  "type": "angular"
-}
